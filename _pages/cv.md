@@ -47,6 +47,6 @@ Teaching
   
 Reviewing
 ======
-* [A Roadmoad to Never-Ending Reinforcement Learning Workshop at ICLR 2021](https://sites.google.com/view/neverendingrl)
-* Sub-reviewer at ICLR 2021
-* Sub-reviewer at NeurIPS 2020
+* [A Roadmoad to Never-Ending Reinforcement Learning Workshop at International Conference on Learning Representations (ICLR) 2021](https://sites.google.com/view/neverendingrl)
+* Sub-reviewer at International Conference on Learning Representations (ICLR) 2021
+* Sub-reviewer at Conference on Neural Information Processing Systems (NeurIPS) 2020
