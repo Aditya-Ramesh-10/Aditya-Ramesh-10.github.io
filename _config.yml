@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Ramesh"
-  avatar           : "images/my_pic.jpeg"
+  avatar           : "/images/my_pic.png"
   bio              : 
   location         : "Lugano, Switzerland"
   employer         :
