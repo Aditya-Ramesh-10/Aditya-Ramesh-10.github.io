@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Artificial Intelligence, Swiss AI Lab (IDSIA), 2020-
+* Ph.D. in Artificial Intelligence, Swiss AI Lab (IDSIA), 2020-
 
 Work experience
 ======
@@ -47,4 +47,6 @@ Teaching
   
 Reviewing
 ======
-* Currently signed in to 43 different slack teams
+* [A Roadmoad to Never-Ending Reinforcement Learning Workshop at ICLR 2021](https://sites.google.com/view/neverendingrl)
+* Sub-reviewer at ICLR 2021
+* Sub-reviewer at NeurIPS 2020
