@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aditya-Ramesh"
+title                    : "Aditya Ramesh"
 title_separator          : "-"
 name                     : &name "Aditya Ramesh"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Ramesh"
-  avatar           : "/images/my_pic.png"
+  avatar           : "images/my_pic.png"
   bio              : 
   location         : "Lugano, Switzerland"
   employer         :
