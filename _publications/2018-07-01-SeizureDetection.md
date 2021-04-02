@@ -1,5 +1,5 @@
 ---
-title: "Automatic seizure detection by modified line length and Mahalanobis distance function"
+title: "Automatic Seizure Detection by Modified Line Length and Mahalanobis Dis- tance Function. "
 collection: publications
 date: 2018-07-01
 venue: 'Biomedical Signal Processing and Control'
