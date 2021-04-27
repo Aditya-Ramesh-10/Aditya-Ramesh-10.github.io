@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student as the [Swiss AI Lab (IDSIA)](https://www.idsia.ch), where I am advised by [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/).
+I am a Ph.D. student at the [Swiss AI Lab (IDSIA)](https://www.idsia.ch), where I am advised by [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/).
