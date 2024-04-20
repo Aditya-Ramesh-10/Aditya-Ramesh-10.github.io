@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aditya Ramesh"
+title                    : "Aditya A. Ramesh"
 title_separator          : "-"
-name                     : &name "Aditya Ramesh"
+name                     : &name "Aditya A. Ramesh"
 description              : &description "personal description"
 url                      : https://adityaramesh.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
