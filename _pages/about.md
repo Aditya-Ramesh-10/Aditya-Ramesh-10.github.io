@@ -13,7 +13,7 @@ My research is focused on understanding intelligence with the goal of building i
 
 - Exploration in complex, sparse-reward environments
 - Temporal credit assignment in long-horizon tasks
-- Scalable approaches to deep reinforcement learning
+- Scalable architectures and learning algorithms for deep reinforcement learning
 
 ### News
 
