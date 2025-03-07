@@ -7,9 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Swiss AI Lab (IDSIA)](https://www.idsia.ch), where I am advised by [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/). 
-Previously, I completed my M.Sc. in Artificial Intelligence from the University of Lugano (USI).
+# About Me
 
-I am interested in various aspects of understanding intelligence, with the goal of building intelligent agents that can solve problems that are presently beyond human capabilities.
-My current research focuses on reinforcement learning. 
-I am particularly interested in tackling problems like exploration and temporal credit assignment in a scalable manner. 
+I am a Ph.D. student at the [Swiss AI Lab (IDSIA)](https://www.idsia.ch), where I am advised by [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/). Previously, I completed my M.Sc. in Artificial Intelligence from the University of Lugano (USI).
+
+My research is focused on understanding intelligence with the goal of building intelligent agents that can solve problems beyond current human capabilities. Specifically, my work centers on reinforcement learning, with particular emphasis on:
+
+- Exploration strategies in complex environments
+- Temporal credit assignment in long-horizon tasks
+- Scalable approaches to deep reinforcement learning
+
+## News
+
+- **January 2025**: Co-organizing a workshop at RLDM 2025: [Saving the Phenomena of Minds](https://sites.google.com/view/phenomena-of-minds-rldm/home)
+- **July 2024**: Presented our [Chunked-TD paper](https://arxiv.org/abs/2405.03878) at ICML 2024
+- **June 2024**: Visiting the University of Alberta for 6 months, hosted by Prof. Rich Sutton
