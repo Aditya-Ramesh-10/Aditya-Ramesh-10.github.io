@@ -5,9 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_color: "#1A3D7C"  # Deep blue color
-  overlay_filter: 0.5  # Opacity at 50%
 ---
 
 I am a Ph.D. student at the [Swiss AI Lab (IDSIA)](https://www.idsia.ch), where I am advised by Prof. [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/). Previously, I completed my M.Sc. in Artificial Intelligence from the University of Lugano (USI).
