@@ -60,11 +60,14 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+
+$primary-color              : #D84315 !default; // Warm orange/red
+$link-color                 : #FB8C00 !default; // Orange
+$link-color-hover           : #D84315 !default; // Darker orange on hover
+$success-color              : #7CB342 !default; // Lime green
+$info-color                 : #29B6F6 !default; // Light blue
 
 /* brands */
 $behance-color              : #1769FF;
