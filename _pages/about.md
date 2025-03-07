@@ -9,9 +9,9 @@ redirect_from:
 
 I am a Ph.D. student at the [Swiss AI Lab (IDSIA)](https://www.idsia.ch), where I am advised by [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/). Previously, I completed my M.Sc. in Artificial Intelligence from the University of Lugano (USI).
 
-My research is focused on understanding intelligence with the goal of building intelligent agents that can solve problems beyond current human capabilities. Specifically, my work centers on reinforcement learning, with particular emphasis on:
+My research is focused on understanding intelligence with the goal of building intelligent agents that can solve problems beyond current human capabilities. Specifically, my work centers on reinforcement learning. I am particularly interested in:
 
-- Exploration strategies in complex environments
+- Exploration in complex, sparse-reward environments
 - Temporal credit assignment in long-horizon tasks
 - Scalable approaches to deep reinforcement learning
 
