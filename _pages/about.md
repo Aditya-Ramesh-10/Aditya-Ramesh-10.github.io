@@ -17,6 +17,8 @@ My research is focused on understanding intelligence and building intelligent ag
 
 ### News
 
+- **September 2025**: Our paper on [Improving Reward-Based Hindsight Credit Assignment](https://openreview.net/forum?id=2tKj9WC9YQ) was accepted in [EWRL](https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/)
+- **June 2025**: Interning at Amazon in Cambridge, UK, for 5 months.
 - **January 2025**: Co-organizing a workshop at RLDM 2025: [Saving the Phenomena of Minds](https://sites.google.com/view/phenomena-of-minds-rldm/home).
 - **October 2024**: Attending the [Openmind](https://www.openmindresearch.org) retreat in Banff, Canada.
 - **July 2024**: Presenting our [Chunked-TD paper](https://arxiv.org/abs/2405.03878) at ICML 2024.
