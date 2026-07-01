@@ -12,3 +12,36 @@
 .page__footer-copyright {
   color: rgba(255, 255, 255, 0.8);
 }
+
+/* ---- Single-column editorial homepage ---- */
+#main > .archive:first-child {
+  float: none;
+  width: 100%;
+  max-width: 42em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 0;
+}
+
+.home-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem 0 2.25rem;
+}
+.home-avatar {
+  width: 66px; height: 66px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex: none;
+}
+.home-name { font-size: 1.9rem; margin: 0; line-height: 1.1; }
+.home-tagline {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.78rem; color: #6b6b6b; margin: 0.4rem 0 0;
+}
+.home-links {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.85rem; margin: 0.65rem 0 0;
+}
+.home-links a { margin-right: 1.1rem; }
