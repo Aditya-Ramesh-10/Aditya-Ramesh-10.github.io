@@ -61,3 +61,5 @@ My research is focused on understanding intelligence and building intelligent ag
     <div class="news-body">Visited the University of Alberta for 6 months, hosted by Prof. Rich Sutton.</div>
   </div>
 </div>
+
+<p class="now-line"><span>Currently reading</span> <em>[The Dispossessed]</em> · <span>previously</span> <em>[Katabasis]</em></p>
