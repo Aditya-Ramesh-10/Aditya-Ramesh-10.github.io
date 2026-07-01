@@ -1,11 +1,25 @@
 ---
 permalink: /
 excerpt: "About me"
-author_profile: true
-redirect_from: 
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
+
+<div class="home-header" markdown="0">
+  <img class="home-avatar" src="/images/my_pic.jpeg" alt="Aditya A. Ramesh">
+  <div>
+    <h1 class="home-name">Aditya A. Ramesh</h1>
+    <p class="home-tagline">Lugano, Switzerland · reinforcement learning</p>
+    <p class="home-links">
+      <a href="mailto:aditya@idsia.ch">Email</a>
+      <a href="https://github.com/Aditya-Ramesh-10">GitHub</a>
+      <a href="https://scholar.google.ch/citations?user=60K82BkAAAAJ&hl=en">Scholar</a>
+      <a href="https://twitter.com/nonline_ar">Twitter</a>
+    </p>
+  </div>
+</div>
 
 I am a Ph.D. student at the [Swiss AI Lab (IDSIA-USI)](https://www.idsia.ch), where I am advised by Prof. [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/).
 
