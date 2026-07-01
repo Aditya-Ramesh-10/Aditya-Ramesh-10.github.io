@@ -31,10 +31,33 @@ My research is focused on understanding intelligence and building intelligent ag
 
 ### News
 
-- **April 2026**: New preprint on adaptive weight decay for continual learning: [FADE](https://arxiv.org/abs/2604.27063).
-- **September 2025**: Our paper ['Improving Reward-Based Hindsight Credit Assignment'](https://openreview.net/forum?id=2tKj9WC9YQ) has been accepted at [EWRL 2025](https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/).
-- **June 2025**: Interning at Amazon in Cambridge, UK, for 5 months.
-- **January 2025**: Co-organizing a workshop at RLDM 2025: [Saving the Phenomena of Minds](https://sites.google.com/view/phenomena-of-minds-rldm/home).
-- **October 2024**: Attending the [Openmind](https://www.openmindresearch.org) retreat in Banff, Canada.
-- **July 2024**: Presenting our [Chunked-TD paper](https://arxiv.org/abs/2405.03878) at ICML 2024.
-- **June 2024**: Visiting the University of Alberta for 6 months, hosted by Prof. Rich Sutton.
+<div class="news-log">
+  <div class="news-row">
+    <div class="news-date">Apr 2026</div>
+    <div class="news-body">New preprint on adaptive weight decay for continual learning: <a href="https://arxiv.org/abs/2604.27063">FADE</a>.</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">Sep 2025</div>
+    <div class="news-body">Our paper <a href="https://openreview.net/forum?id=2tKj9WC9YQ">Improving Reward-Based Hindsight Credit Assignment</a> was accepted at <a href="https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/">EWRL 2025</a>.</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">Jun 2025</div>
+    <div class="news-body">Started a 5-month internship at Amazon in Cambridge, UK.</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">Jan 2025</div>
+    <div class="news-body">Co-organizing a workshop at RLDM 2025: <a href="https://sites.google.com/view/phenomena-of-minds-rldm/home">Saving the Phenomena of Minds</a>.</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">Oct 2024</div>
+    <div class="news-body">Attended the <a href="https://www.openmindresearch.org">Openmind</a> retreat in Banff, Canada.</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">Jul 2024</div>
+    <div class="news-body">Presented our <a href="https://arxiv.org/abs/2405.03878">Chunked-TD</a> paper at ICML 2024.</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">Jun 2024</div>
+    <div class="news-body">Visited the University of Alberta for 6 months, hosted by Prof. Rich Sutton.</div>
+  </div>
+</div>
