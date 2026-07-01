@@ -10,7 +10,7 @@ redirect_from:
 <div class="home-header" markdown="0">
   <div>
     <h1 class="home-name">Aditya A. Ramesh</h1>
-    <p class="home-tagline">Lugano, Switzerland · reinforcement learning</p>
+    <p class="home-tagline">Lugano, Switzerland </p>
     <p class="home-links">
       <a href="mailto:aditya@idsia.ch">Email</a>
       <a href="https://github.com/Aditya-Ramesh-10">GitHub</a>
