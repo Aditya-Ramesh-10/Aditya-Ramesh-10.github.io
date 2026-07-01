@@ -46,3 +46,25 @@
   font-size: 0.85rem; margin: 0.65rem 0 0;
 }
 .home-links a { margin-right: 1.1rem; }
+
+/* ---- News as a dated log ---- */
+.news-log { margin-top: 0.75rem; }
+.news-log .news-row {
+  display: grid;
+  grid-template-columns: 5.5em 1fr;
+  gap: 1rem;
+  padding: 0.6rem 0;
+  border-top: 1px solid $border-color;
+}
+.news-log .news-row:last-child { border-bottom: 1px solid $border-color; }
+.news-log .news-date {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.75rem;
+  color: #6b6b6b;
+  padding-top: 0.2rem;
+  white-space: nowrap;
+}
+.news-log .news-body { line-height: 1.55; }
+@media (max-width: 480px) {
+  .news-log .news-row { grid-template-columns: 1fr; gap: 0.1rem; }
+}
