@@ -13,7 +13,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
+$serif                      : "Newsreader", Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -28,8 +28,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$global-font-family         : $serif;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -63,9 +63,9 @@ $border-color               : $lighter-gray;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 
-$primary-color              : #1A3D7C !default; // Deep blue
-$link-color                 : #2474B5 !default; // Medium blue
-$link-color-hover           : #1A3D7C !default; // Darker blue on hover
+$primary-color              : #22794e !default;
+$link-color                 : #22794e !default;
+$link-color-hover           : #1a5d3b !default;
 $success-color              : #2E8540 !default; // Forest green
 $info-color                 : #0071BC !default; // Bright blue
 
