@@ -46,7 +46,7 @@ My research is focused on understanding intelligence and building intelligent ag
   </div>
   <div class="news-row">
     <div class="news-date">Jan 2025</div>
-    <div class="news-body">Co-organizing a workshop at RLDM 2025: <a href="https://sites.google.com/view/phenomena-of-minds-rldm/home">Saving the Phenomena of Minds</a>.</div>
+    <div class="news-body">Co-organized a workshop at RLDM 2025: <a href="https://sites.google.com/view/phenomena-of-minds-rldm/home">Saving the Phenomena of Minds</a>.</div>
   </div>
   <div class="news-row">
     <div class="news-date">Oct 2024</div>
