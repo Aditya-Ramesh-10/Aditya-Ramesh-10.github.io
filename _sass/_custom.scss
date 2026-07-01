@@ -68,3 +68,14 @@
 @media (max-width: 480px) {
   .news-log .news-row { grid-template-columns: 1fr; gap: 0.1rem; }
 }
+
+.now-line {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.78rem;
+  color: #6b6b6b;
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid $border-color;
+}
+.now-line span { color: #22794e; }
+.now-line em { font-style: italic; }
