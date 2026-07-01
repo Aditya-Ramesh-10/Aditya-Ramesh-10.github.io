@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <div class="home-header" markdown="0">
+  <img class="home-avatar" src="/images/my_pic.jpeg" alt="Aditya A. Ramesh">
   <div>
     <h1 class="home-name">Aditya A. Ramesh</h1>
     <p class="home-tagline">Lugano, Switzerland </p>
