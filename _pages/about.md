@@ -23,7 +23,7 @@ redirect_from:
 
 I am a Ph.D. student at the [Swiss AI Lab (IDSIA-USI-SUPSI)](https://www.idsia.ch), where I am advised by Prof. [Jürgen Schmidhuber](https://people.idsia.ch//~juergen/).
 
-My research is focused on understanding intelligence and building intelligent agents that can solve problems to complement human capabilities. Specifically, my work centers on reinforcement learning. Some problems I keep coming back to:
+My research is focused on building intelligent agents that can solve problems to complement human capabilities. Specifically, my work centers on reinforcement learning. Some problems I keep coming back to:
 
 - Exploration in complex, sparse-reward environments
 - Temporal credit assignment in long-horizon tasks
